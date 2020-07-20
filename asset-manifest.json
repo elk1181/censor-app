@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/censor-app/static/css/main.dba0ff61.chunk.css",
+    "main.js": "/censor-app/static/js/main.2d02691f.chunk.js",
+    "main.js.map": "/censor-app/static/js/main.2d02691f.chunk.js.map",
+    "runtime-main.js": "/censor-app/static/js/runtime-main.2f086fe4.js",
+    "runtime-main.js.map": "/censor-app/static/js/runtime-main.2f086fe4.js.map",
+    "static/js/2.8081fe46.chunk.js": "/censor-app/static/js/2.8081fe46.chunk.js",
+    "static/js/2.8081fe46.chunk.js.map": "/censor-app/static/js/2.8081fe46.chunk.js.map",
+    "index.html": "/censor-app/index.html",
+    "precache-manifest.12d7b072d190056d82085bc360d4b005.js": "/censor-app/precache-manifest.12d7b072d190056d82085bc360d4b005.js",
+    "service-worker.js": "/censor-app/service-worker.js",
+    "static/css/main.dba0ff61.chunk.css.map": "/censor-app/static/css/main.dba0ff61.chunk.css.map",
+    "static/js/2.8081fe46.chunk.js.LICENSE.txt": "/censor-app/static/js/2.8081fe46.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/censor-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f086fe4.js",
+    "static/js/2.8081fe46.chunk.js",
+    "static/css/main.dba0ff61.chunk.css",
+    "static/js/main.2d02691f.chunk.js"
+  ]
+}
